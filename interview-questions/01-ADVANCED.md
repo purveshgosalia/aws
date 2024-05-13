@@ -11,7 +11,7 @@
 **Answer:** You can use tools like AWS CloudFormation Guard, cfn-nag, or open-source security scanners to analyze IaC templates for security vulnerabilities and compliance violations. By integrating these tools into DevOps pipelines, you can ensure that infrastructure code adheres to security best practices.
 
 ### 5. **Question:** Explain the role of Amazon CloudWatch Events in automating DevOps workflows.
-**Answer:** Amazon CloudWatch Events allow you to respond to changes in AWS resources by triggering automated actions. In DevOps, you can use CloudWatch Events to automate CI/CD pipeline executions, scaling actions, incident response, and other tasks based on resource state changes.
+**Answer:** It Events allow you to respond to changes in AWS resources by triggering automated actions. In DevOps, you can use CloudWatch Events to automate CI/CD pipeline executions, scaling actions, incident response, and other tasks based on resource state changes.
 
 ### 6. **Question:** Describe the use of AWS Systems Manager Automation and its impact on DevOps practices.
 **Answer:** AWS Systems Manager Automation enables you to automate common operational tasks across AWS resources. In DevOps, it enhances repeatability and consistency by automating tasks like patch management, application deployments, and configuration changes, reducing manual intervention and errors.
